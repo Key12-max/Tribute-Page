@@ -1,0 +1,27 @@
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+#img-div {
+    background-color: #ffffff;
+    margin: 12px;
+    padding: 4px;
+    text-align: center;
+}
+
+#main {
+    text-align: center;
+    background-color: #eeeeee;
+}
+
+ul li {
+    padding-left: 2rem;
+    background-image: url(star.svg);
+    background-position: 0 0;
+    background-size: 1.6rem 1.6rem;
+    background-repeat: no-repeat;
+    text-align: left;
+    list-style-position: inside;
+
+}
